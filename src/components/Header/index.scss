@@ -1,0 +1,25 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #1d1d1d1d;
+    color: white;
+
+    h1{
+        padding: 0.5rem 1rem;
+        border-radius: 15px;
+        border: none;
+        }
+
+    input {
+        padding: 0.5rem 1rem;
+        border-radius: 15px;
+        border: none;
+        }
+
+    input:focus {
+        border: none;
+        outline: none;
+        }
+    }
